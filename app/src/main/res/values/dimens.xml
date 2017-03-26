@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="fragment_trivia_left_padding">20dp</dimen>
+  <dimen name="fragment_trivia_text_size">30sp</dimen>
+  <dimen name="fragment_trivia_answers_margin_top">50dp</dimen>
+</resources>
