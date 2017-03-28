@@ -2,4 +2,4 @@
 
 This application demonstrate the MVVM pattern along with dependency injection tool - Dagger 2 and RxJava for reactive programming capabilities. 
 
-TODO - talk about design and architecture and dependencies.
+TODO - talk about design, architecture and dependencies.
